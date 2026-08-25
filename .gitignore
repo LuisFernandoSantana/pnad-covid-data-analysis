@@ -216,3 +216,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Credenciais e configurações locais
+.env
+.env.*
+!.env.example
+
+# Dados brutos
+*.csv
+*.zip
+*.rar
+dados_brutos/
+00_dados_brutos/
+
+# Modelos temporários
+*.pkl
+
+# Arquivos do Windows
+Thumbs.db
+desktop.ini
