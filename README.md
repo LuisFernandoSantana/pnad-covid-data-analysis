@@ -177,7 +177,7 @@ Instale as dependências:
 pip install -r requirements.txt
 ```
 
-Baixe os microdados da PNAD COVID-19 e coloque os arquivos abaixo em uma pasta chamada `dados_brutos`:
+Baixe os microdados da PNAD COVID-19 e coloque os arquivos abaixo em uma pasta chamada `00_dados_brutos`:
 
 ```text
 PNAD_COVID_092020.csv
@@ -187,7 +187,7 @@ PNAD_COVID_112020.csv
 
 Crie um arquivo `.env` baseado no `.env.example` e preencha as credenciais do PostgreSQL/Supabase. Depois, abra o notebook e execute as células na ordem apresentada.
 
-## Cuidados na interpretação
+## Observações importantes
 
 - Os resultados principais utilizam o peso amostral da PNAD COVID-19.
 - A união de vários meses representa pessoas-mês, não indivíduos únicos.
