@@ -201,4 +201,4 @@ Os dados utilizados são provenientes da [PNAD COVID-19, disponibilizada pelo IB
 
 ## Autor
 
-Desenvolvido por [Luis Fernando Santana](https://github.com/LuisFernandoSantana).
+[Luis Fernando Santana](https://github.com/LuisFernandoSantana).
