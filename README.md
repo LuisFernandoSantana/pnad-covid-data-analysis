@@ -6,7 +6,7 @@ O objetivo foi entender a evolução dos testes positivos, os sintomas mais freq
 
 A análise foi desenvolvida com Python e SQL, utilizando PostgreSQL/Supabase para armazenamento e consulta dos dados.
 
-[Ver notebook completo](analise_pnad_covid.ipynb) • [Ver consultas SQL](queries/queries_analiticas_pnad_covid.sql)
+[Ver notebook completo](prd_analise_pnad_covid.ipynb) • [Ver consultas SQL](queries/queries_analiticas_pnad_covid.sql)
 
 ## Principais resultados
 
